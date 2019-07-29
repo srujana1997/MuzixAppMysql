@@ -2,6 +2,7 @@ HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
+!**/src/main/**
 
 ### STS ###
 .apt_generated
@@ -32,4 +33,3 @@ build/
 .mvn/
 mvnw
 mvnw.cmd
-
